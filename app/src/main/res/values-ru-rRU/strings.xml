@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+
+
+    <string name="app_name">Хорошо</string>
+    <string name="lan_english" >Английский</string>
+    <string name="lan_russian" >Русский</string>
+    <string name="lan_uzbek" >Узбекский</string>
+
+
+</resources>

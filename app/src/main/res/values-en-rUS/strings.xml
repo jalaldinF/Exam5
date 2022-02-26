@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources >
+
+    <string name="app_name">Good</string>
+    <string name="lan_english" >English</string>
+    <string name="lan_russian">Russian</string>
+    <string name="lan_uzbek">Uzbek</string>
+
+
+</resources>
